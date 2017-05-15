@@ -1,0 +1,5 @@
+Copyright Notice
+Loop Analyst and Loop Analyst.py are Copyright (c) 2001, 2016 alexis dinno
+
+This file is part of Loop Analyst.
+

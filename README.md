@@ -1,10 +1,10 @@
-#About
+# About
 
 A Linux adaptation of the standalone GUI version of Loop Analyst software by Alexis Dinno, which was initially for OS X:
 http://alexisdinno.com/LoopAnalyst/
 
 
-#Usage
+# Usage
 
 Dependancies : Python 2.7, wxPython, numpy, graphviz
 
